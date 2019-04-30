@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Jellyfish
+Exec=jelly
+Icon=/usr/share/pixmaps/jellyfish/app.png
+Terminal=false
+Type=Application
+Categories=Network;
+Comment=Un'applicazione gratuita per l'indicizzazione ed il download di file

@@ -1,0 +1,38 @@
+      _      _ _        __ _     _     
+     | |    | | |      / _(_)   | |    
+     | | ___| | |_   _| |_ _ ___| |__  
+ _   | |/ _ \ | | | | |  _| / __| '_ \ 
+| |__| |  __/ | | |_| | | | \__ \ | | |
+ \____/ \___|_|_|\__, |_| |_|___/_| |_|
+                  __/ |                
+                 |___/          v 0.5
+
+Author: "Giacomo Trudu" aka "Wicker25" - wicker25[at]gmail[dot]com
+Site: http://www.hackyourmind.org/
+License: (CC) BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/2.5/it/
+
+Jellyfish is a free download application.
+Jellyfish è un'applicazione libera per l'indicizzazione ed il download di file.
+
+DISCLAIMER:
+
+	The user and/or licensee assume the entire risk as to the use of this software.
+	The author assumes no liability for damages, direct or consequential, which may result from the use of the software.
+
+	L'utente e/o il licenziatario si assume l'intero rischio conseguente dall'uso di questo software.
+	L'autore non si assume la responsabilità di danni, diretti o conseguenti, risultati dall'uso del software.
+
+DEPENDS:
+
+	+ gtkmm-2.4			- http://www.gtkmm.org/
+	+ cURL (>= 7.18)	- http://curl.haxx.se/
+	+ pcre++ (>= 0.9)	- http://www.daemon.de/PCRE
+	+ zlibc (>= 0.9)	- http://zlibc.linux.lu/
+
+HOW-TO-COMPILE:	# make
+
+HOW-TO-INSTALL:	# make install
+
+HOW-TO-REMOVE:	# make unistall
+
+FOR-MORE-INFORMATION: visit http://www.hackyourmind.org/ .

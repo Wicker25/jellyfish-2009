@@ -1,0 +1,3 @@
+?package(jellyfish):needs="X11" section="Applications/Network/File Transfer"\
+  title="Jellyfish" command="/usr/bin/jelly"\
+  icon="/usr/share/pixmaps/jellyfish/app.png"
