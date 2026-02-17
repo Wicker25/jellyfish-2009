@@ -1,7 +1,7 @@
 /* 
 	Title: Jellyfish - msgs.h
 	Author: "Giacomo Trudu" aka "Wicker25" - wicker25[at]gmail[dot]com
-	Site: http://www.hackyourmind.org/
+	Site: https://github.com/Wicker25
 	License: (CC) BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/2.5/it/
 	Description: Jellyfish is a free download application
 */

@@ -1,7 +1,7 @@
 /* 
 	Title: Jellyfish - consts.cpp
 	Author: "Giacomo Trudu" aka "Wicker25" - wicker25[at]gmail[dot]com
-	Site: http://www.hackyourmind.org/
+	Site: https://github.com/Wicker25
 	License: (CC) BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/2.5/it/
 	Description: Jellyfish is a free download application
 */
@@ -13,7 +13,7 @@
 #define APP_TITLE "Jellyfish"
 #define APP_VERSION "v0.5.1"
 #define APP_AUTHOR "Trudu Giacomo aka \"Wicker25\""
-#define APP_SITE "http://www.hackyourmind.org/"
+#define APP_SITE "https://github.com/Wicker25"
 #define APP_EMAIL "< wicker25@gmail.com >"
 #define APP_DESCRIPTION "Un'applicazione libera per l'indicizzazione ed il download di file"
 #define APP_LICENSE "(CC) BY-NC-SA - http://creativecommons.org/licenses/by-nc-sa/2.5/it/\nPer maggiori informazioni consultare il file LICENSE."
